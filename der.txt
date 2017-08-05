@@ -1,0 +1,3 @@
+
+Disk Name: ST1000LM024 HN-M101MBB ATA Device
+Volume: G:\;C:\;D:\;E:\
